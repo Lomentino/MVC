@@ -1,0 +1,7 @@
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.csprojAssemblyReference.cache
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.AssemblyInfoInputs.cache
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.AssemblyInfo.cs
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.csproj.CoreCompileInputs.cache
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.MvcApplicationPartsAssemblyInfo.cache
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.RazorAssemblyInfo.cache
+/home/user/MVC/obj/Debug/netcoreapp3.1/MVC.RazorAssemblyInfo.cs
