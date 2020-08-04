@@ -52,6 +52,8 @@ namespace MvcMovie.Models
                         Genre = "Western",
                         Price = 3.99M
                     }
+                    
+                    
                 );
                 context.SaveChanges();
             }
